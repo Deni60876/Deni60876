@@ -7,7 +7,7 @@ https://github.com/
 
 
 
-# 👋 Olá, eu sou [SEU NOME]
+# 👋 Olá, eu sou Deni da Silva Fernandes.
 
 ### [FRASE DE IMPACTO - O QUE VOCÊ TRANSFORMA]
 
@@ -19,12 +19,12 @@ Sou [FORMAÇÃO PRINCIPAL] e [FORMAÇÃO COMPLEMENTAR]. Minha jornada une [3 COM
 
 ## 🚀 Sobre mim
 
-* 🎓 [Titulação/Curso - Instituição]
-* 💻 [Especialidade técnica principal]
-* 🤖 [Interesse em IA/Automação/Dados - escolha seu foco]
-* 📊 [Uma habilidade transversal - liderança, comunicação, análise]
-* 🌱 [Aprendizado em progresso]
-* 🎯 [Sua motivação em 1 linha]
+* 🎓 desenvolvimento de sistemas
+* 💻 eu aprender rapido.
+* 🤖 sou interessado em banco de dados, desenvolver site.
+* 📊 minha qualidade é comunicação.
+* 🌱 estou aprendendo desenvolvimento de sistemas.
+* 🎯 o que me motiva são meus pais e meu dindo, meu dindo é um cara da TI também, ele me mostrou o mundo da TI, meu dindo trabalhava com banco de dados e agora migrou para nuvem.
 
 ---
 
